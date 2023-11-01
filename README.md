@@ -15,6 +15,7 @@ Enhance your proficiency in data analysis and machine learning with our "Industr
 * Streamlit
 
 # overview 
+![Uploading outlook.png…]()
 
 
 # Data Preprocessing:
