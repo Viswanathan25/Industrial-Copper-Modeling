@@ -15,7 +15,7 @@ Enhance your proficiency in data analysis and machine learning with our "Industr
 * Streamlit
 
 # overview 
-![Uploading outlook.png…]()
+![outlook](https://github.com/Viswanathan25/Industrial-Copper-Modeling/assets/131848906/982c8e4f-eff2-418c-9a1f-c52aeb64a1f2)
 
 
 # Data Preprocessing:
